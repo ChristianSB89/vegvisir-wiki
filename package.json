@@ -1,6 +1,7 @@
 {
   "name": "vegvisir-wiki",
   "version": "0.1.0",
+  "homepage": "https://ChristianSB89.github.io/vegvisir-wiki",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
