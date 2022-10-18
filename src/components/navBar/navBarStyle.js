@@ -26,12 +26,19 @@ export const LinkFlex = styled.div`
 export const StyledLi = styled.li`
   border: 2px blue solid;
   list-style: none;
-  margin: 1em 2em;
+  margin: 1em 0.5em;
   text-align: center;
 `;
 
 export const LinkStyle = styled(Link)`
   text-decoration: none;
   border: 2px solid magenta;
-  padding: 1em;
+  padding: 2.7em 1em;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: white;
+  &:hover {
+    padding-bottom: 4em;
+    border-radius: 0 0 0.5em 0.5em;
+  }
 `;
