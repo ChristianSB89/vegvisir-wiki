@@ -1,14 +1,14 @@
 import React from "react";
-import ProfilePic from "../../../img/profile-placeholder.png";
+
 import { characterDataShort } from "./characterData";
 import {
   CardWrapper,
   ProfileImg,
   RaceOriginFlex,
   TxtDeco,
-} from "./characterSmallCard";
+} from "./characterCardStyles";
 
-function CharacterCard() {
+function CharacterCardShort() {
   return (
     <CardWrapper>
       {characterDataShort.map(
@@ -33,4 +33,4 @@ function CharacterCard() {
   );
 }
 
-export default CharacterCard;
+export default CharacterCardShort;

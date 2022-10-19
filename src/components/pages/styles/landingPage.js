@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const LandingPageWrapper = styled.section`
+export const PageWrapper = styled.section`
   border: blue double 4px;
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;

@@ -1,14 +1,10 @@
 import React from "react";
-import {
-  MainSection,
-  LandingPageWrapper,
-  StyledAside,
-} from "./styles/landingPage";
-import CharacterCard from "./subPages/characters/characterCard";
+import { MainSection, PageWrapper, StyledAside } from "./styles/landingPage";
+import CharacterCard from "./subPages/characters/characterCardShort";
 
 function LandingPage() {
   return (
-    <LandingPageWrapper>
+    <PageWrapper>
       <StyledAside>
         <h2>Aside section</h2>
         <p>Random small cards displayed here</p>
@@ -23,7 +19,7 @@ function LandingPage() {
         <p>Random small cards displayed here</p>
         <CharacterCard />
       </StyledAside>
-    </LandingPageWrapper>
+    </PageWrapper>
   );
 }
 
