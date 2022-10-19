@@ -18,6 +18,7 @@ export const RaceOriginFlex = styled.section`
   border: red dotted 2px;
   display: flex;
   justify-content: space-around;
+  align-items: center;
   padding: 0;
   margin: 0;
 `;

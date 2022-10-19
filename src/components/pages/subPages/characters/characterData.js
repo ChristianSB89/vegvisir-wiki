@@ -1,5 +1,5 @@
-import ProfilePic from "../../../img/profile-placeholder.png";
-import FullShot from "../../../img/full-body-placeholder.png";
+import HafgrimProfile from "../../../img/hafgrim-profile.png";
+import HafgrimFull from "../../../img/hafgrim-full.png";
 
 //-------------------//
 // Short description //
@@ -8,12 +8,12 @@ import FullShot from "../../../img/full-body-placeholder.png";
 export const characterDataShort = [
   {
     id: 1,
-    image: ProfilePic,
-    name: "Gudleif Skrukkefyllhaugen",
+    image: HafgrimProfile,
+    name: "Hafgrim Aaklebraathen",
     race: "Human",
-    origin: "Klingsdalen",
+    origin: "Fir",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
+      "Born and raised in the industrial city of Fir. He developed an interest in exploration and navigation at a very young age. He is leading the expedition to find and recover the lost vessel by the name of Vegvisir.",
   },
 ];
 
@@ -24,11 +24,10 @@ export const characterDataShort = [
 export const characterData = [
   {
     id: 1,
-    image: FullShot,
-    name: "Gudleif Skrukkefyllhaugen",
+    image: HafgrimFull,
+    name: "Hafgrim Aaklebraathen",
     race: "Human",
-    origin: "Klingsdalen",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos  sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. Perspiciatis  minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur fugiat, temporibus enim commodi iusto libero magni deleniti quod quam consequuntur! Commodi minima excepturi repudiandae velit hic maxime doloremque. Quaerat provident commodi consectetur veniam similique ad earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam quasi aliquam eligendi, placeat qui corporis!",
+    origin: "Fir",
+    description: "Since he was born and raised in the industrial city of Fir.",
   },
 ];

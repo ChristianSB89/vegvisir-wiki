@@ -16,13 +16,13 @@ function CharacterCardShort() {
           return (
             <article key={id}>
               <h3>{name}</h3>
-              <ProfileImg src={image} />
               <RaceOriginFlex>
                 <TxtDeco>Race:</TxtDeco>
                 <p>{race}</p>
                 <TxtDeco>Origins:</TxtDeco>
                 <p>{origin}</p>
               </RaceOriginFlex>
+              <ProfileImg src={image} />
               <TxtDeco>Description:</TxtDeco>
               <p>{description}</p>
             </article>
