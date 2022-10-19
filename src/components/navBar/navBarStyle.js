@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 
 export const HeaderStyle = styled.header`
@@ -30,7 +30,7 @@ export const StyledLi = styled.li`
   text-align: center;
 `;
 
-export const LinkStyle = styled(Link)`
+export const LinkStyle = styled(NavLink)`
   text-decoration: none;
   border: 2px solid magenta;
   padding: 2.7em 1em;
@@ -38,6 +38,10 @@ export const LinkStyle = styled(Link)`
   font-weight: 500;
   background: white;
   &:hover {
+    padding-bottom: 4em;
+    border-radius: 0 0 0.5em 0.5em;
+  }
+  &.active {
     padding-bottom: 4em;
     border-radius: 0 0 0.5em 0.5em;
   }

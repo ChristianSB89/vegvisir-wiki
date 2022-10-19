@@ -23,7 +23,9 @@ function NavBar() {
         </TitleWrapper>
         <LinkFlex>
           <StyledLi>
-            <LinkStyle to="/">Home</LinkStyle>
+            <LinkStyle exact to="/" end>
+              Home
+            </LinkStyle>
           </StyledLi>
           <StyledLi>
             <LinkStyle to="/characters">Characters</LinkStyle>
