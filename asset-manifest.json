@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/vegvisir-wiki/static/css/main.073c9b0a.css",
-    "main.js": "/vegvisir-wiki/static/js/main.6b3abbfa.js",
+    "main.js": "/vegvisir-wiki/static/js/main.d2691505.js",
+    "static/media/full-body-placeholder.png": "/vegvisir-wiki/static/media/full-body-placeholder.202f799740fb3daf3d87.png",
+    "static/media/profile-placeholder.png": "/vegvisir-wiki/static/media/profile-placeholder.361b08b8ffbc5573d6c2.png",
     "index.html": "/vegvisir-wiki/index.html",
     "main.073c9b0a.css.map": "/vegvisir-wiki/static/css/main.073c9b0a.css.map",
-    "main.6b3abbfa.js.map": "/vegvisir-wiki/static/js/main.6b3abbfa.js.map"
+    "main.d2691505.js.map": "/vegvisir-wiki/static/js/main.d2691505.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6b3abbfa.js"
+    "static/js/main.d2691505.js"
   ]
 }
