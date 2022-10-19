@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/vegvisir-wiki/static/css/main.073c9b0a.css",
-    "main.js": "/vegvisir-wiki/static/js/main.d2691505.js",
-    "static/media/full-body-placeholder.png": "/vegvisir-wiki/static/media/full-body-placeholder.202f799740fb3daf3d87.png",
-    "static/media/profile-placeholder.png": "/vegvisir-wiki/static/media/profile-placeholder.361b08b8ffbc5573d6c2.png",
+    "main.js": "/vegvisir-wiki/static/js/main.ceef6834.js",
+    "static/media/thondir-full.png": "/vegvisir-wiki/static/media/thondir-full.2cc4fcf4f96d3d1c92d0.png",
+    "static/media/compass.png": "/vegvisir-wiki/static/media/compass.c8ceef0db335eac58e58.png",
+    "static/media/hafgrim-profile.png": "/vegvisir-wiki/static/media/hafgrim-profile.54073285a36d583e7043.png",
+    "static/media/thondir-profile.png": "/vegvisir-wiki/static/media/thondir-profile.2c5935f53a44f5a0dded.png",
+    "static/media/hafgrim-full.png": "/vegvisir-wiki/static/media/hafgrim-full.d4611cc826ce20bdfbb4.png",
+    "static/media/logo-text.png": "/vegvisir-wiki/static/media/logo-text.86ee4a1944ffaf4ba34d.png",
     "index.html": "/vegvisir-wiki/index.html",
     "main.073c9b0a.css.map": "/vegvisir-wiki/static/css/main.073c9b0a.css.map",
-    "main.d2691505.js.map": "/vegvisir-wiki/static/js/main.d2691505.js.map"
+    "main.ceef6834.js.map": "/vegvisir-wiki/static/js/main.ceef6834.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d2691505.js"
+    "static/js/main.ceef6834.js"
   ]
 }
