@@ -6,9 +6,13 @@ import Characters from "../pages/Characters";
 import Places from "../pages/Places";
 import Vehicles from "../pages/Vehicles";
 
+import Compass from "../img/compass.png";
+import LogoText from "../img/logo-text.png";
+
 import {
   LinkFlex,
   LinkStyle,
+  LogoStyle,
   NavWrapper,
   StyledLi,
   TitleWrapper,
@@ -19,7 +23,8 @@ function NavBar() {
     <Router>
       <NavWrapper>
         <TitleWrapper>
-          <h2>Site Title</h2>
+          <LogoStyle src={Compass} />
+          <LogoStyle src={LogoText} />
         </TitleWrapper>
 
         <LinkFlex>
