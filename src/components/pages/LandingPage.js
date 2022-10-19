@@ -4,6 +4,7 @@ import {
   LandingPageWrapper,
   StyledAside,
 } from "./styles/landingPage";
+import CharacterCard from "./subPages/characters/characterCard";
 
 function LandingPage() {
   return (
@@ -11,6 +12,7 @@ function LandingPage() {
       <StyledAside>
         <h2>Aside section</h2>
         <p>Random small cards displayed here</p>
+        <CharacterCard />
       </StyledAside>
       <MainSection>
         <h2>Main Content</h2>
@@ -19,6 +21,7 @@ function LandingPage() {
       <StyledAside>
         <h2>Aside section</h2>
         <p>Random small cards displayed here</p>
+        <CharacterCard />
       </StyledAside>
     </LandingPageWrapper>
   );

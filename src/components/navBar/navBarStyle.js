@@ -11,6 +11,8 @@ export const NavWrapper = styled.nav`
 
 export const TitleWrapper = styled.div`
   border: purple 2px solid;
+  border-radius: 1em;
+  padding: 0 1em;
 `;
 
 export const LinkFlex = styled.div`

@@ -21,6 +21,7 @@ function NavBar() {
         <TitleWrapper>
           <h2>Site Title</h2>
         </TitleWrapper>
+
         <LinkFlex>
           <StyledLi>
             <LinkStyle exact to="/" end>
