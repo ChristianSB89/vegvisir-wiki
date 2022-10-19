@@ -1,12 +1,8 @@
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 
-export const HeaderStyle = styled.header`
-  border: 2px yellow solid;
-`;
-
 export const NavWrapper = styled.nav`
-  border: 2px red solid;
+  border: 4px red double;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -19,6 +15,8 @@ export const TitleWrapper = styled.div`
 
 export const LinkFlex = styled.div`
   border: 2px yellow solid;
+  border-radius: 0.3em;
+  padding: 0 2em;
   display: flex;
   justify-content: flex-end;
 `;
@@ -27,6 +25,8 @@ export const StyledLi = styled.li`
   border: 2px blue solid;
   list-style: none;
   margin: 1em 0.5em;
+  padding: 0 1em;
+  border-radius: 0.3em;
   text-align: center;
 `;
 
