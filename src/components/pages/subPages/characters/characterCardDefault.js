@@ -9,6 +9,7 @@ import {
   ImgAboutFlex,
   TitleTxtWrapper,
   RoCollector,
+  CardSeparator,
 } from "./characterCardStyles";
 
 function CharacterCardDefault() {
@@ -16,7 +17,7 @@ function CharacterCardDefault() {
     <CardWrapper>
       {characterData.map(({ id, image, name, race, origin, description }) => {
         return (
-          <article key={id}>
+          <CardSeparator key={id}>
             <h3>{name}</h3>
             <RaceOriginFlex>
               <RoCollector>
@@ -35,7 +36,7 @@ function CharacterCardDefault() {
                 <p>{description}</p>
               </TitleTxtWrapper>
             </ImgAboutFlex>
-          </article>
+          </CardSeparator>
         );
       })}
     </CardWrapper>

@@ -14,6 +14,11 @@ export const CardWrapper = styled.section`
   z-index: -1;
 `;
 
+export const CardSeparator = styled.article`
+  border: green double 3px;
+  padding: 1em;
+`;
+
 export const RaceOriginFlex = styled.section`
   border: red dotted 2px;
   display: flex;
