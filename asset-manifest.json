@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vegvisir-wiki/static/css/main.073c9b0a.css",
-    "main.js": "/vegvisir-wiki/static/js/main.579a7a5a.js",
+    "main.js": "/vegvisir-wiki/static/js/main.6b3abbfa.js",
     "index.html": "/vegvisir-wiki/index.html",
     "main.073c9b0a.css.map": "/vegvisir-wiki/static/css/main.073c9b0a.css.map",
-    "main.579a7a5a.js.map": "/vegvisir-wiki/static/js/main.579a7a5a.js.map"
+    "main.6b3abbfa.js.map": "/vegvisir-wiki/static/js/main.6b3abbfa.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.579a7a5a.js"
+    "static/js/main.6b3abbfa.js"
   ]
 }
