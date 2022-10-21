@@ -38,5 +38,7 @@
 }
 
 body {
-  background-image: url(../src/components/img/industrial-wall.jpg);
+  background-image: url(../src/components/img/explorer-bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
