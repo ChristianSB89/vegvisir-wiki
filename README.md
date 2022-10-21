@@ -19,5 +19,11 @@ Hopefully this will be a full-fledged encyclopedia about this fantasy universe.
 
 ## Site History
 
-Oct. 17 2022: Setting up the basics of the site.
-Oct. 19 2022: Further work on layout and fixed navbar with active state.
+Oct. 17 2022:
+Setting up the basics of the site.
+
+Oct. 19 2022:
+Further work on layout and fixed navbar with active state. Also made character cards.
+
+Oct. 21 2022:
+Work on layout continues and started adding color and images. Also made default vehicle cards.
