@@ -1,7 +1,5 @@
-import HafgrimProfile from "../../../img/hafgrim-profile.png";
-import HafgrimFull from "../../../img/hafgrim-full.png";
-import ThondirProfile from "../../../img/thondir-profile.png";
-import ThondirFull from "../../../img/thondir-full.png";
+import Profile from "../../../img/profile-pic.png";
+import FullShot from "../../../img/full-body-placeholder.png";
 
 //-------------------//
 // Short description //
@@ -10,21 +8,21 @@ import ThondirFull from "../../../img/thondir-full.png";
 export const characterDataShort = [
   {
     id: 1,
-    image: HafgrimProfile,
-    name: "Hafgrim Aaklebraathen",
-    race: "Human",
-    origin: "Fir",
+    image: Profile,
+    name: "Character 1",
+    race: "AI",
+    origin: "That Place",
     description:
-      "Born and raised in the industrial city of Fir. He developed an interest in exploration and navigation at a very young age. He is leading the expedition to find and recover the lost vessel by the name of Vegvisir.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
   },
   {
     id: 2,
-    image: ThondirProfile,
-    name: "Hafgrim Aaklebraathen",
+    image: Profile,
+    name: "Character 2",
     race: "Human",
-    origin: "Fir",
+    origin: "This Place",
     description:
-      "Born and raised in the industrial city of Fir. He developed an interest in exploration and navigation at a very young age. He is leading the expedition to find and recover the lost vessel by the name of Vegvisir.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
   },
 ];
 
@@ -35,18 +33,20 @@ export const characterDataShort = [
 export const characterData = [
   {
     id: 1,
-    image: HafgrimFull,
-    name: "Hafgrim Aaklebraathen",
-    race: "Human",
-    origin: "Fir",
-    description: "Since he was born and raised in the industrial city of Fir.",
+    image: FullShot,
+    name: "Character 1",
+    race: "AI",
+    origin: "That Place",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
   },
   {
-    id: 1,
-    image: ThondirFull,
-    name: "Hafgrim Aaklebraathen",
+    id: 2,
+    image: FullShot,
+    name: "Character 2",
     race: "Human",
-    origin: "Fir",
-    description: "Since he was born and raised in the industrial city of Fir.",
+    origin: "This Place",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
   },
 ];
