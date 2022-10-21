@@ -36,3 +36,4 @@ Hopefully this will be a full-fledged encyclopedia about this fantasy universe.
 -Adding color and images
 -Made default vehicle cards (with stock photo)
 -Changed background image on entire site
+-Fixed design on titles on pages "Characters", "Places" and "Vehicles"

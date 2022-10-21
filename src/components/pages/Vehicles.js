@@ -1,4 +1,5 @@
 import React from "react";
+import { PageTitle, PageTitleBox } from "./styles/globalPageStyle";
 
 import { PageWrapper } from "./styles/landingPage";
 import VehicleCardDefault from "./subPages/vehicles/vehicleCardDefault";
@@ -6,7 +7,9 @@ import VehicleCardDefault from "./subPages/vehicles/vehicleCardDefault";
 function Vehicles() {
   return (
     <PageWrapper>
-      <h2>Vehicles</h2>
+      <PageTitleBox>
+        <PageTitle>Vehicles</PageTitle>
+      </PageTitleBox>
       <VehicleCardDefault />
     </PageWrapper>
   );

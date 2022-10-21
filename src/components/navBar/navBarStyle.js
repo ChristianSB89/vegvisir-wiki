@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 
 export const NavWrapper = styled.nav`
-  border: 2px inset #5e807e;
+  border: 3px #314241 inset;
   display: flex;
   justify-content: space-between;
   align-items: center;

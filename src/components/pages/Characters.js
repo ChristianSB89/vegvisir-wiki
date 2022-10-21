@@ -1,11 +1,14 @@
 import React from "react";
+import { PageTitle, PageTitleBox } from "./styles/globalPageStyle";
 import { PageWrapper } from "./styles/landingPage";
 import CharacterCardDefault from "./subPages/characters/characterCardDefault";
 
 function Characters() {
   return (
     <PageWrapper>
-      <h2>Characters</h2>
+      <PageTitleBox>
+        <PageTitle>The citizens of Hitaöyr</PageTitle>
+      </PageTitleBox>
       <CharacterCardDefault />
     </PageWrapper>
   );
