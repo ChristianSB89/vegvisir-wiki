@@ -5,13 +5,14 @@ import styled from "styled-components";
 //-----------------------------------//
 
 export const CardWrapper = styled.section`
-  border: blue solid 2px;
+  border: #605542 outset 2px;
   border-radius: 1em;
   padding: 0.5em;
   display: flex;
   flex-direction: column;
   align-items: center;
   z-index: -1;
+  background: #ccc3b4;
 `;
 
 export const CardSeparator = styled.article`
@@ -20,7 +21,7 @@ export const CardSeparator = styled.article`
 `;
 
 export const RaceOriginFlex = styled.section`
-  border: red dotted 2px;
+  border: #605542 dotted 2px;
   display: flex;
   justify-content: space-around;
   align-items: center;

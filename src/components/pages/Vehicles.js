@@ -1,15 +1,14 @@
 import React from "react";
 
+import { PageWrapper } from "./styles/landingPage";
+import VehicleCardDefault from "./subPages/vehicles/vehicleCardDefault";
+
 function Vehicles() {
   return (
-    <section>
-      <h2>Vehicles Page</h2>
-      <p>
-        This is the vehicle page. Here you can click on different vehicles and
-        read more about them, stats and what real life vehicle it has taken
-        inspiration from.
-      </p>
-    </section>
+    <PageWrapper>
+      <h2>Vehicles</h2>
+      <VehicleCardDefault />
+    </PageWrapper>
   );
 }
 
