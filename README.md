@@ -5,7 +5,8 @@ Main inspiration is steampunk with some twists.
 
 ## First and foremost
 
-For the time being I'm not thinking design yet, just using a lot of borders to do some quick and easy layout planning.
+Design is under constant work for now.
+There will be stock photos and placeholders for now, but eventually there will be some proper images and such.
 
 ##### The content
 
