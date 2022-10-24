@@ -12,8 +12,11 @@ function LandingPage() {
         <HafgrimCardShort />
       </StyledAside>
       <MainSection>
-        <h2>Main Content</h2>
-        <p>Introduction and info</p>
+        <h2>Welcome to Hitaöyr!</h2>
+        <p>
+          In this encyclopedia, you will find everything you need to know about
+          Hitaöyr and the people living there.
+        </p>
       </MainSection>
       <StyledAside>
         <h2>Aside section</h2>

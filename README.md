@@ -41,3 +41,5 @@ Hopefully this will be a full-fledged encyclopedia about this fantasy universe.
 ###### Oct. 24 2022:
 
 -Minor tweaks on character cards
+-Added new placeholders until the actual images is ready
+-Filled in info about two of the characters
