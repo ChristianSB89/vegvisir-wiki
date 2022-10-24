@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/vegvisir-wiki/static/css/main.073c9b0a.css",
-    "main.js": "/vegvisir-wiki/static/js/main.ceef6834.js",
-    "static/media/thondir-full.png": "/vegvisir-wiki/static/media/thondir-full.2cc4fcf4f96d3d1c92d0.png",
+    "main.css": "/vegvisir-wiki/static/css/main.6adc5868.css",
+    "main.js": "/vegvisir-wiki/static/js/main.89b013b3.js",
+    "static/media/veteran1.png": "/vegvisir-wiki/static/media/veteran1.6e0fc2d68f2646703d84.png",
+    "static/media/explorer-bg.jpg": "/vegvisir-wiki/static/media/explorer-bg.83c35d8c94b255cf54c0.jpg",
+    "static/media/full-body-placeholder.png": "/vegvisir-wiki/static/media/full-body-placeholder.202f799740fb3daf3d87.png",
     "static/media/compass.png": "/vegvisir-wiki/static/media/compass.c8ceef0db335eac58e58.png",
-    "static/media/hafgrim-profile.png": "/vegvisir-wiki/static/media/hafgrim-profile.54073285a36d583e7043.png",
-    "static/media/thondir-profile.png": "/vegvisir-wiki/static/media/thondir-profile.2c5935f53a44f5a0dded.png",
-    "static/media/hafgrim-full.png": "/vegvisir-wiki/static/media/hafgrim-full.d4611cc826ce20bdfbb4.png",
+    "static/media/veteran2.png": "/vegvisir-wiki/static/media/veteran2.b5512e18e818f96917e2.png",
+    "static/media/yrsa-full.png": "/vegvisir-wiki/static/media/yrsa-full.2bd0336ba0af799f9f97.png",
     "static/media/logo-text.png": "/vegvisir-wiki/static/media/logo-text.86ee4a1944ffaf4ba34d.png",
+    "static/media/hafgrim-full.png": "/vegvisir-wiki/static/media/hafgrim-full.1ed8a43c2567a37ff288.png",
+    "static/media/hafgrim-profile.png": "/vegvisir-wiki/static/media/hafgrim-profile.f3eb3aa58bf82904f128.png",
+    "static/media/yrsa-profile.png": "/vegvisir-wiki/static/media/yrsa-profile.4476593e5f4ebe8b980c.png",
     "index.html": "/vegvisir-wiki/index.html",
-    "main.073c9b0a.css.map": "/vegvisir-wiki/static/css/main.073c9b0a.css.map",
-    "main.ceef6834.js.map": "/vegvisir-wiki/static/js/main.ceef6834.js.map"
+    "main.6adc5868.css.map": "/vegvisir-wiki/static/css/main.6adc5868.css.map",
+    "main.89b013b3.js.map": "/vegvisir-wiki/static/js/main.89b013b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ceef6834.js"
+    "static/css/main.6adc5868.css",
+    "static/js/main.89b013b3.js"
   ]
 }
