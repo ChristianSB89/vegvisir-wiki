@@ -6,6 +6,7 @@ import {
   ProfileImg,
   RaceOriginFlex,
   TxtDeco,
+  CenteringFlex,
 } from "./characterCardStyles";
 
 function CharacterCardShort() {
@@ -14,7 +15,7 @@ function CharacterCardShort() {
       {characterDataShort.map(
         ({ id, image, name, race, origin, description }) => {
           return (
-            <article key={id}>
+            <CenteringFlex key={id}>
               <h3>{name}</h3>
               <RaceOriginFlex>
                 <TxtDeco>Race:</TxtDeco>
@@ -25,7 +26,7 @@ function CharacterCardShort() {
               <ProfileImg src={image} />
               <TxtDeco>Description:</TxtDeco>
               <p>{description}</p>
-            </article>
+            </CenteringFlex>
           );
         }
       )}
