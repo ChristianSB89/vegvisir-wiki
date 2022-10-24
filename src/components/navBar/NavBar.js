@@ -37,18 +37,18 @@ function NavBar() {
             <LinkStyle to="/characters">Characters</LinkStyle>
           </StyledLi>
           <StyledLi>
-            <LinkStyle to="/places">Places</LinkStyle>
+            <LinkStyle to="/vehicles">Vehicles</LinkStyle>
           </StyledLi>
           <StyledLi>
-            <LinkStyle to="/vehicles">Vehicles</LinkStyle>
+            <LinkStyle to="/places">Places</LinkStyle>
           </StyledLi>
         </LinkFlex>
       </NavWrapper>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/characters" element={<Characters />} />
-        <Route path="/places" element={<Places />} />
         <Route path="/vehicles" element={<Vehicles />} />
+        <Route path="/places" element={<Places />} />
       </Routes>
     </Router>
   );

@@ -1,6 +1,7 @@
 import React from "react";
 import { MainSection, PageWrapper, StyledAside } from "./styles/landingPage";
-import CharacterCard from "./subPages/characters/characterCardShort";
+import HafgrimCardShort from "./subPages/characters/HafgrimShortCard";
+import YrsaCardShort from "./subPages/characters/YrsaShortCard";
 
 function LandingPage() {
   return (
@@ -8,7 +9,7 @@ function LandingPage() {
       <StyledAside>
         <h2>Aside section</h2>
         <p>Random small cards displayed here</p>
-        <CharacterCard />
+        <HafgrimCardShort />
       </StyledAside>
       <MainSection>
         <h2>Main Content</h2>
@@ -17,7 +18,7 @@ function LandingPage() {
       <StyledAside>
         <h2>Aside section</h2>
         <p>Random small cards displayed here</p>
-        <CharacterCard />
+        <YrsaCardShort />
       </StyledAside>
     </PageWrapper>
   );

@@ -99,4 +99,5 @@ export const RoFlex = styled.div`
 export const ProfileImgLarge = styled.img`
   width: 15em;
   border-radius: 2em 0 0 2em;
+  object-fit: cover;
 `;
